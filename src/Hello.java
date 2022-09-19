@@ -6,6 +6,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("刘威是一个非常好学的人");
         System.out.println("刘威是一个非常学习的人");
-        System.out.println("刘威是fechan善良的人");
+        System.out.println("刘威是fe:wq" +
+                "chan善良的人");
     }
 }
