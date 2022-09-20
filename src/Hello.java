@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("刘威是一个持之以恒的人");
         System.out.println("刘威愿意是个持之以恒的人");
         System.out.println("刘威是个肯持之以恒的人");
+        System.out.println("刘威是一个懂得感恩的人");
     }
 }
